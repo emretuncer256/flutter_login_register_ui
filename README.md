@@ -11,6 +11,6 @@ This project contains 3 pages:
 
 |PAGE            |SCREENSHOT                                       |
 |----------------|-------------------------------------------------|
-|Welcome         |![Welcome](./test_app/screenshots/welcome.png)   |
-|Login           |![Login](./test_app/screenshots/login.png)       |
-|Register        |![Register](./test_app/screenshots/register.png) |
+|Welcome         |![Welcome](./screenshots/welcome.png)   |
+|Login           |![Login](./screenshots/login.png)       |
+|Register        |![Register](./screenshots/register.png) |
